@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Vivienne Sofie Trachsel"
-image = "/img/default-author.jpg"
+image = "/media/unknown-2.jpeg"
 url = "/about/"
 +++
