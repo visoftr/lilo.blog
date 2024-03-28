@@ -6,11 +6,11 @@ pinned = false
 +++
 # Lorem ipsum
 
-####  cbl-ABS -lcn 
+####  cbl-ABS -lcn v,vöogö
 
 {{<lead>}} 
 
-cbö<osdghöaicäqwA_<
+cbö<osdghöaicäqwA_<vi i gzif trcurdiölgl,
 
 {{<lead>}} 
 
