@@ -1,7 +1,7 @@
 +++
 title = "Anorexia Athletica"
 date = "2024-04-26"
-draft = true
+draft = false
 pinned = false
 +++
 ## **«Du siehst aus wie ein fetter Elefant. Du musst abnehmen»**
