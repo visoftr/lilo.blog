@@ -22,7 +22,7 @@ Essstörungen haben in den letzten Jahren deutlich zugenommen. Eine Essstörung 
 
 Definition Essstörung 
 
-Eine Essstörung ist eine psychische Erkrankung, bei der der Umgang mit dem Essen und die eigene Körperwahrnehmung gestört sind. Essstörungen beeinflussen die Nahrungsaufnahme oder führen gar zu einer Verweigerung und können über den gesamten Lebensverlauf auftreten. In der Schweiz entwickeln 3.5 % der Bevölkerung einmal im Leben eine Essstörung. Allgemein sind Frauen häufiger betroffen als Männer.
+Eine Essstörung ist eine psychische Erkrankung, bei der der Umgang mit dem Essen und die eigene Körperwahrnehmung gestört sind. Essstörungen beeinflussen die Nahrungsaufnahme oder führen gar zu einer Verweigerung und können über den gesamten Lebensverlauf auftreten. In der Schweiz entwickeln 3.5% der Bevölkerung einmal im Leben eine Essstörung. Allgemein sind Frauen häufiger betroffen als Männer.
 
 {{</box>}}
 
