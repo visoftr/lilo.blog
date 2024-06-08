@@ -1,0 +1,18 @@
++++
+title = "Informatikprojekt: Blog erstellen"
+date = "2024-06-08"
+draft = false
+pinned = false
++++
+# Informatikprojekt: Blog erstellen
+
+{{<lead>}}
+
+In der Informatik mussten wir zum Abschluss noch ein Projekt machen. Wir hatten freie Wahl, wie wir unser Projekt gestalten wollen. Die einzige Bedingung war, dass es etwas mit der Informatik zu tun hat. Jedoch spielte es keine Rolle, ob es jetzt ein Podcast, Website erstellen oder etwas programmieren ist. Vom Vorteil war es auch, wenn man etwas wählt, dass einem Spass macht oder man einen Bezug dazu hat. Ich wusste lange nicht was machen und auch die erste Idee habe ich verworfen. Schlussendlich wurde es dann ein Blog, denn ich machen wollte.In der Informatik mussten wir zum Abschluss noch ein Projekt machen. Wir hatten freie Wahl, wie wir unser Projekt gestalten wollen. Die einzige Bedingung war, dass es etwas mit der Informatik zu tun hat. Jedoch spielte es keine Rolle, ob es jetzt ein Podcast, Website erstellen oder etwas programmieren ist. Vom Vorteil war es auch, wenn man etwas wählt, dass einem Spass macht oder man einen Bezug dazu hat. Ich wusste lange nicht was machen und auch die erste Idee habe ich verworfen. Schlussendlich wurde es dann ein Blog, denn ich machen wollte.
+
+{{</lead>}}
+
+\
+Wie bereits erwähnt, war es nicht so leicht ein Thema zu finden, welches einem auch gut entspricht. Doch mit dem Blog war ich eigentlich gut bedient. So konnte ich auch gerade ein Thema wählen, welches sehr aktuell bei mir ist, der Triathlon. Zuerst habe ich auf Wix.ch meine Website für den Blog erstellt, dass fand ich fast am besten. So konnte ich kreativ sein und die Website so gestalten, wie sie mir am besten gefällt. Dieser Prozess nahm jedoch sehr viel Zeit in Anspruch, da es doch noch komplexer ist als ich gedacht habe, so eine Website zu gestalten. Es ist auch noch schwierig so eine Website komplett fertig zu gestalten, wenn man noch keine Beiträge hat. Dann sie die Website noch ziemlich leer aus. Ich hoffe das ändert sich mit der Zeit noch. Zudem musste man sich ja auch irgendwie vorstellen und einen ersten Blogbeitrag erstellen. Bei beidem wusste ich nicht recht, was ich schreiben sollte. Ich wollte nicht, dass es allzu persönlich wird. Doch das ist ziemlich schwierig. Vor allem bei der Kategorie über sich selbst, muss man logischerweise von sich Sachen preisgeben. Ich habe es so kurz wie es möglich war gehalten. Ausserdem war es auch noch schwierig den Blog zu gestalten, weil man auch Bilder verwenden sollte. Jedoch mache ich nie Bilder, wenn ich trainiere oder gerade trainieren gehe. Dementsprechend musste ich auch noch Bilder aus dem Internet nehmen, die ich hoffentlich einmal ersetzen werden kann. Anschliessend ging es auch schon hinter den ersten Blogbeitrag. Ich wusste auch da nicht so recht, wie ich anfangen sollte, bzw. über was der erste Beitrag sein soll. Am naheliegendsten war, dass ich erzähle, wie ich überhaupt zum Triathlon gekommen bin. Der Blogeintrag versuchte ich nicht sehr umschrieben zu machen, da es sonst vielleicht auch ein wenig langweilig werden könnte. Nichtsdestotrotz habe ich die wichtigsten Dinge geschrieben, auf die es ankommt. 
+
+Ich bin mir noch nicht wirklich sicher, jedoch könnte ich mir gut vorstellen, den Blog weiterzuführe. Denn ich finde es noch ziemlich spannend und auch lustig zu machen. Allerdings müsste ich mich noch ein bisschen mehr darüber informieren, wie man gute und spannende Texte schreibt, sowie man mehr Leser*innen erhaltet. Aber mal schauen, wie es mit dem Blog weitergehen wird:)
