@@ -1,10 +1,10 @@
 +++
-title = "Informatikprojekt: Blog erstellen"
+title = "Informatikprojekt"
 date = "2024-06-08"
 draft = false
 pinned = false
 +++
-# Informatikprojekt: Blog erstellen
+# Blog erstellen
 
 {{<lead>}}
 
